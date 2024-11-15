@@ -1,0 +1,19 @@
+linters:
+  enable:
+    - dogsled
+    - dupl
+    - errcheck
+    - gocognit
+    - goconst
+    - gocritic
+    - gocyclo
+    - gofmt
+    - revive
+    - gosimple
+    - govet
+    - misspell
+    - prealloc
+    - staticcheck
+    - typecheck
+    - unparam
+    - unused
